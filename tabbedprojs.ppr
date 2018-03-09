@@ -1,0 +1,63 @@
+[Config]
+Compilator.SaveAll=0
+Compilator.Capture=0
+Compilator.HideOutput=0
+Compilator.ProgSaveAll=0
+Compilator.ProgRunSelection=0
+Compilator.LogType=0
+DefaultCPIndex=0
+LogtoEnd=1
+DontOpen=0
+AbsolutePath=0
+FileFormat=0
+ProjectFilesOnly=0
+[Project tree]
+tabbedprojs
+	+main
+		index.php
+		core\internal.php
+		core\template\style_main.css
+		core\template\template_default.php
+		core\template\text.php
+		core\js_storage\leet.php
+		core\lolendofpage.php
+		.htaccess
+		core\auxiliary.php
+		core\simcheck.php
+		core\text_internal.php
+[Open project files]
+0=core\auxiliary.php
+1=core\js_storage\leet.php
+2=core\simcheck.php
+3=core\template\text.php
+4=core\text_internal.php
+5=core\lolendofpage.php
+6=index.php
+7=core\internal.php
+[Selected Project Files]
+Main=
+Selected=core\auxiliary.php
+[core\auxiliary.php]
+TopLine=1477
+Caret=48,1437
+[core\js_storage\leet.php]
+TopLine=55
+Caret=26,63
+[core\simcheck.php]
+TopLine=303
+Caret=53,216
+[core\template\text.php]
+TopLine=80
+Caret=51,84
+[core\text_internal.php]
+TopLine=1
+Caret=39,4
+[core\lolendofpage.php]
+TopLine=1
+Caret=19,15
+[index.php]
+TopLine=1
+Caret=56,10
+[core\internal.php]
+TopLine=35
+Caret=56,42
